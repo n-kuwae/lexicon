@@ -6,11 +6,11 @@
         http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
       alphabet="ipa" xml:lang="ja-JP">
     <lexeme>
-        <grapheme>虎ノ門ヒルズ</grapheme>
-        <alias>どらえもんヒルズ</alias>
+        <grapheme>玉置</grapheme>
+        <phoneme>tamaokʲi</phoneme>
     </lexeme>
     <lexeme>
         <grapheme>昼食</grapheme>
-        <phoneme>ランチ</phoneme>
+        <phoneme>ɾa＼ntɕi</phoneme>
     </lexeme>
 </lexicon>
