@@ -4,7 +4,7 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon 
                              http://www.w3.org/TR/pronunciation-lexicon/pls.xsd"
-         alphabet="sapi"
+         alphabet="x-microsoft-sapi"
          xml:lang="ja-JP">
 
   <lexeme>
